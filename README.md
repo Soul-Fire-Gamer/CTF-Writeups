@@ -1,1 +1,2 @@
 Note the fact that when posting this currently is still when the competition window for the writeups are still open, so please from this repository don't take anything and just post it onto the writeup submission page and claim it is yours, it hurts everyone.
+Also most writeups will be in docx file kind which means you need to download the file, I will try to create pdf's to be better
