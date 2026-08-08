@@ -1,2 +1,4 @@
-Note the fact that when posting this currently is still when the competition window for the writeups are still open, so please from this repository don't take anything and just post it onto the writeup submission page and claim it is yours, it hurts everyone.
-Also most writeups will be in docx file kind which means you need to download the file, I will try to create pdf's to be better
+This repository has multiple CTF's writeups including ones from LITCTF 2026, picoCTF etc.
+There are folders showing which CTF the writeups for, etc LITCTF 2026 Writeups
+The files in the folders contain writeups, solve codes, image files, C code, Reversed engineered C code etc.
+Some useful links will be included in the link.txt, check it out.
